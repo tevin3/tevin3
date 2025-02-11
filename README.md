@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tevin3
-- 👀 I’m interested in ...full stack web development
+- 👋 Hi, I’m @TEVIN
+- 👀 I’m interested in ...FULL STACK WEB DEVELOPMENT
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
