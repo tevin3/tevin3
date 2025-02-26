@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tevin3&show_icons=true&locale=en" alt="tevin3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tevin3&" alt="tevin3" /></p>
+[![Tevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TEVIN3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+https://wakatime.com/@TEVIN3
