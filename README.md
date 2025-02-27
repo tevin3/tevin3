@@ -18,7 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tevin3&show_icons=true&locale=en&layout=compact" alt="tevin3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tevin3&show_icons=true&locale=en" alt="tevin3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tevin3&" alt="tevin3" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tevin3&" alt="tevin3" />
 
 
