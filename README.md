@@ -2,8 +2,14 @@
 <h3 align="center">A passionate frontend developer from KENYA</h3>
 
 <p align="left"> <a href="https://twitter.com/@tevinod" target="blank"><img src="https://img.shields.io/twitter/follow/@tevinod?logo=twitter&style=for-the-badge" alt="@tevinod" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tevin3&label=Profile%20views&color=0e75b6&style=flat" alt="tevin3" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tevin3" alt="tevin3" /></a> </p>
 
 - 🌱 I’m currently learning **JAVASCRIPT**
+📫 How to reach me **tevinouma96@gmail.com**
+
+- ⚡ Fun fact **Debugging is like being the detective in a crime movie where you are also the murderer—except you have no memory of committing the crime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
