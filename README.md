@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tevin3" alt="tevin3" /></a> </p>
 
 - 🌱 I’m currently learning **JAVASCRIPT**
+
+
 📫 How to reach me **tevinouma96@gmail.com**
 
 - ⚡ Fun fact **Debugging is like being the detective in a crime movie where you are also the murderer—except you have no memory of committing the crime.**
