@@ -33,4 +33,11 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   9 hrs 13 mins   ████████████████░░░░░░░░░   64.55 %
+CSS          2 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+HTML         2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+```
+
 <!--END_SECTION:waka-->
